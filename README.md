@@ -25,11 +25,7 @@ This app provides a centralized dashboard for engineers and operators to track p
 - Refreshes and provides new tips on clicking the button
 
 ### 4. Pod Comparison Tool
-- Select **any two pods** and compare their:
-  - Speed  
-  - Battery  
-  - Status
-- Visualize numeric parameters using **side-by-side bar charts** for easy comparison.  
+- Select **any two pods** and compare them. 
 - Includes a warning if the same pod is selected twice.
 
 ---
@@ -48,4 +44,5 @@ GUI APPLICATION/
 ├─ dashboard.py         # Main Streamlit app
 ├─ requirements.txt     # Python dependencies
 ├─ README.md            # This file
+
 └─ Avishkar_logo.png    # Logo used in the sidebar
